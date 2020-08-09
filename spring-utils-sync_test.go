@@ -20,7 +20,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-spring/go-spring-utils"
+	"github.com/go-spring/spring-utils"
 )
 
 func TestWaitGroup(t *testing.T) {

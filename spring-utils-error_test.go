@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/go-spring/go-spring-utils"
+	"github.com/go-spring/spring-utils"
 )
 
 func TestPanicCond_When(t *testing.T) {

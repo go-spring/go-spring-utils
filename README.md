@@ -1,1 +1,1 @@
-# go-spring-utils
+# spring-utils
